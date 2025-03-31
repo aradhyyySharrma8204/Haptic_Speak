@@ -1,0 +1,11 @@
+pydub
+simpleaudio
+numpy
+whisper
+librosa
+scipy
+sounddevice
+pandas
+scikit-learn
+joblib
+g2p_en
