@@ -6,6 +6,8 @@ Haptic_Speak is an innovative project designed to bridge the communication gap b
 
 In a world where auditory communication dominates, Haptic_Speak aims to introduce an alternative mode of interaction. This project translates speech into touch-based feedback, making verbal communication more inclusive for people with hearing impairments or those in noise-restricted environments. Whether integrated into wearable devices, smartphones, or assistive communication tools, this technology enhances accessibility and real-time interaction.  
 
+##Video Illustration-https://drive.google.com/file/d/1G3OJ8XUshAmLDdNMiZgU4K9B7UV8oafY/view?usp=sharing
+
 ## 🚀 **Key Features**  
 
 🔊 **Real-Time Speech Recognition** – Converts spoken words into text using advanced AI-powered speech-to-text algorithms.  
