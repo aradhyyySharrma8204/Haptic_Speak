@@ -53,7 +53,6 @@ Haptic_Speak is an open-source initiative aimed at revolutionizing accessibility
 ## 🎤 **Join the Revolution**  
 
 Haptic_Speak is more than just a project—it’s a step towards redefining communication for a more inclusive world. If you're passionate about accessibility, haptic technology, or AI-driven innovations, join us in building the future of tactile communication!  
-
-🔗 **Repository Link:** [GitHub.com/YourRepo](#)  
+ 
 
 👨‍💻 **Contributions & Ideas Welcome!** 🚀💡
